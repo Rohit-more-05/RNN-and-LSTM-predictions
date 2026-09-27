@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=1500&auto=format&fit=crop" alt="AI Neural Network Banner" width="100%">
-  
   <h1>🔮 Next Word & Sentence Predictor</h1>
   <p><strong>A Deep Learning powered application to intelligently predict the next sequence of text using LSTM and RNN architectures.</strong></p>
   
